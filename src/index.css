@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+
+*{
+  font-family: "Jersey 15", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app{
+  background-color: blueviolet;
+  min-height: 100vh;
+  display: grid;
+}
